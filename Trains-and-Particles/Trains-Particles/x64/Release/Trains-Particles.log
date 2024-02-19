@@ -1,0 +1,10 @@
+﻿  Trains_and_Particles.cpp
+C:\Users\lukeb\OneDrive - Abertay University\Second Year\CMP202\Week 4\Trains-and-Particles\Trains-Particles\Trains_and_Particles.cpp(240,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukeb\OneDrive - Abertay University\Second Year\CMP202\Week 4\Trains-and-Particles\Trains-Particles\Trains_and_Particles.cpp(241,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukeb\OneDrive - Abertay University\Second Year\CMP202\Week 4\Trains-and-Particles\Trains-Particles\Trains_and_Particles.cpp(242,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukeb\OneDrive - Abertay University\Second Year\CMP202\Week 4\Trains-and-Particles\Trains-Particles\Trains_and_Particles.cpp(243,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 445 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Trains-Particles.vcxproj -> C:\Users\lukeb\OneDrive - Abertay University\Second Year\CMP202\Week 4\Trains-and-Particles\Trains-Particles\x64\Release\Trains-Particles.exe

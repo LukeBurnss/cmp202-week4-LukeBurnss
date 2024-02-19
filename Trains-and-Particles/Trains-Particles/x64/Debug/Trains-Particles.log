@@ -1,0 +1,6 @@
+﻿  Trains_and_Particles.cpp
+C:\Users\javad\source\repos\Trains-Particles\Trains_and_Particles.cpp(156,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\javad\source\repos\Trains-Particles\Trains_and_Particles.cpp(157,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\javad\source\repos\Trains-Particles\Trains_and_Particles.cpp(158,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\javad\source\repos\Trains-Particles\Trains_and_Particles.cpp(159,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Trains-Particles.vcxproj -> C:\Users\javad\source\repos\Trains-Particles\x64\Debug\Trains-Particles.exe
